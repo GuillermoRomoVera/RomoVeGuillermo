@@ -15,7 +15,9 @@ public class App {
         do
         {
             r=a+b;
+
             System.out.println("El resultado de la suma de la secuencia " + s + " es: " + r);
+
             a=b;
             b=r;
             c++;
