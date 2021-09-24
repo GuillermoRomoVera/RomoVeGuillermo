@@ -18,6 +18,10 @@ Además, los eventos tienen la posibilidad de ser causados de distintas maneras:
 
 Una vez que presionan hablado objeto se crea un acontecimiento (objeto origen) en cargado de retener información acerca de la acción elaborada.
 
+### **_Objeto evento_**  
+
+Se encarga de guardar la información necesaria para identificar el tipo de evento, ademas puede guardar el nombre del origen.
+
 ### **_Objeto oyente_**  
 
 Este objeto continuamente va a ser de tipo Listener y es delegado de estar a la escucha (de chismoso) de una vez que un acontecimiento (objeto origen) es realizado. No obstante, cada oyente debería tener su registro al origen que corresponde puesto que dependiendo los principios va a tener una secuencia de procedimientos.
