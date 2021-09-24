@@ -1,6 +1,8 @@
 # **Topicos Avanzados**
 
-## **Guillermo Romo Vera**
+## **Guillermo Romo Vera**  
+
+### **19100251**
 
 ![LogoDelTec](https://www.tecnm.mx/assets/files/main/img/pleca_tecnm.jpg)
 
